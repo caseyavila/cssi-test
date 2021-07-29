@@ -1,3 +1,3 @@
 # cssi-test
 
-Trying to force a merge conflict
+This is a practice repository
